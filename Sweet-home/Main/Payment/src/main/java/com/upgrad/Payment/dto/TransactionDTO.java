@@ -1,7 +1,7 @@
 /**
  * Data transfer object which is used to transfer data for Payment detail
  * DTO class for payment
- * Author : @Debi
+ * Author :  @AndyLam @WilliamSin
  * */
 
 package com.upgrad.Payment.dto;
