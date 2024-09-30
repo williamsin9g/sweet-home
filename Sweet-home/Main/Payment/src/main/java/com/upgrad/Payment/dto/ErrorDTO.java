@@ -1,6 +1,6 @@
 /**
  * DTO class which is used to map exception or error if any
- * Author : @Debi
+ * Author :  @AndyLam @WilliamSin
  * */
 
 package com.upgrad.Payment.dto;
