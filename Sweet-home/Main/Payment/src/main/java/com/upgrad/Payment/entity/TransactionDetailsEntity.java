@@ -1,6 +1,6 @@
 /**
  * Entity class for payment which refers to transaction table in the database
- * Author : @Debi
+ * Author : @AndyLam @WilliamSin
  * */
 
 package com.upgrad.Payment.entity;
